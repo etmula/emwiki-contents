@@ -46,7 +46,7 @@ environ
 
 begin :: Semilattice of type widening
 
-::: This is test of push 3
+::: This is test of push 4
 registration
   cluster reflexive -> complete for 1-element RelStr;
   coherence;
